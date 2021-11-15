@@ -291,6 +291,9 @@ section.home {
   align-items: flex-start;
   margin-bottom: 40px;
 }
+.contact-info .info-box a {
+  text-decoration:none;
+}
 .contact-info .info-box .contact-icon {
   width: 20px;
   margin-right: 40px;
